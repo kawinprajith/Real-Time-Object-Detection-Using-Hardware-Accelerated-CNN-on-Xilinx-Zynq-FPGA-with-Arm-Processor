@@ -45,3 +45,4 @@ The project successfully demonstrates a hardware-ready CNN convolution module us
 ## Authors
 - Kawin Prajith M  
 - Janakiraman J
+- Varshaa Manikandan
