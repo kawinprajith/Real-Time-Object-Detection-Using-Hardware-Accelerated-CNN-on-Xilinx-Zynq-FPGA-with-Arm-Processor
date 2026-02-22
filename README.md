@@ -65,13 +65,21 @@ This project demonstrates the complete workflow of converting a trained CNN mode
 ## 🏗️ Architecture Overview
 
 Google Colab (Training)
-↓
+
+  ↓
+
 Export Weights (.h files)
-↓
+
+  ↓
+
 Vitis HLS (C++ → RTL)
-↓
+
+  ↓
+
 Vivado (IP Integration)
-↓
+
+  ↓
+
 PYNQ-Z2 (ARM + FPGA Execution)
 
 ---
@@ -80,8 +88,8 @@ PYNQ-Z2 (ARM + FPGA Execution)
 
 - Python / PyTorch
 - Google Colab
-- Vitis HLS 2025.x
-- Vivado 2025.x
+- Vitis HLS 2025.2
+- Vivado 2025.2
 - PYNQ-Z2 (Zynq-7020)
 
 ---
